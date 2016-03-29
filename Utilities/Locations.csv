@@ -1,0 +1,118 @@
+Name,Abbreviation,Type,Portal Zone,Portal X,Portal Y,Meeting Stone Zone,Meeting Stone X,Meeting Stone Y,Entrance Zone,Entrance X,Entrance Y
+Ragefire Chasm,rfc,Dungeon,321,52.61,57.81,321,51.41,57.96,321,84.75,32.71
+The Deadmines,vc,Dungeon,39,38.27,77.48,39,41.63,72.32,39,42.57,71.76
+Wailing Caverns,wc,Dungeon,11,42.12,66.59,11,40.67,68.06,11,38.91,69.14
+Shadowfang Keep,sfk,Dungeon,21,44.8,67.82,21,46.17,68.19,,,
+Blackfathom Deeps,bfd,Dungeon,43,16.53,11.03,43,15.3,15.56,43,13.96,13.78
+The Stockade,stocks,Dungeon,301,50.52,66.5,301,53.26,70.14,,,
+Gnomeregan,gnomer,Dungeon,27,25.3,36.9,895,32.56,38.46,27,31.19,38.02
+Scarlet Monastery: Scarlet Halls,smhalls,Dungeon,20,85.3,32.17,20,82.1,39.12,20,82.56,32.93
+Scarlet Monastery: Scarlet Cathedral,smcath,Dungeon,20,84.86,30.59,20,82.1,39.12,20,82.56,32.93
+Razorfen Kraul,rfk,Dungeon,607,40.73,94.42,607,42.69,94.58,,,
+Maraudon Orange,marao,Dungeon,101,35.98,64.26,101,31.51,62.24,101,29.1,62.55
+Maraudon Purple,marap,Dungeon,101,30.25,54.57,101,31.51,62.24,101,29.16,61.36
+Uldaman,uldaman,Dungeon,17,34.3,10.35,17,45.52,12.68,17,41.65,11.62
+Scholomance,scholo,Dungeon,22,69.05,72.94,22,69.59,74.47,22,69.77,73.5
+Razorfen Downs,rfd,Dungeon,61,47.62,23.64,61,42.25,26.03,,,
+Dire Maul: East,dmeast,Dungeon,121,64.85,30.23,121,58,44.55,,,
+Dire Maul: North,dmnorth,Dungeon,121,62.51,24.9,121,58,44.55,,,
+Dire Maul: West,dmwest,Dungeon,121,60.49,30.72,121,58,44.55,,,
+Zul'Farrak,zf,Dungeon,161,39.22,21.29,161,39.04,21.96,,,
+Stratholme: Live Side,stratlive,Dungeon,23,27.09,11.59,23,27.09,12.47,,,
+Stratholme: Dead Side,stratdead,Dungeon,23,43.74,17.46,23,27.09,12.47,23,43.45,19.39
+Sunken Temple,st,Dungeon,38,76.03,45.22,38,68.93,55.06,38,69.66,53.56
+Blackrock Depths,brd,Dungeon,28,26.95,72.52,29,21.38,28.71,29,18.54,25.11
+Lower Blackrock Spire,lbrs,Dungeon,29,27.58,25.45,29,21.38,28.71,29,23.83,26.09
+Upper Blackrock Spire,ubrs,Dungeon,29,27.26,23.75,29,21.38,28.71,29,23.83,26.09
+Hellfire Citadel: Hellfire Ramparts,ramps,Dungeon,465,47.64,53.56,465,48.44,52.37,,,
+Hellfire Citadel: The Blood Furnace,bf,Dungeon,465,46.01,51.85,465,48.44,52.37,,,
+Coilfang Reservoir: The Slave Pens,sp,Dungeon,467,48.94,35.8,467,52.38,36.1,467,50.37,40.87
+Coilfang Reservoir: The Underbog,ub,Dungeon,467,54.23,34.43,467,52.38,36.1,467,50.37,40.87
+Auchindoun: Mana-Tombs,mt,Dungeon,478,39.63,57.69,478,39.79,64.8,478,39.63,60.32
+Auchindoun: Auchenai Crypts,ac,Dungeon,478,34.35,65.61,478,39.79,64.8,478,36.08,65.61
+Auchindoun: Sethekk Halls,sethekk,Dungeon,478,44.93,65.61,478,39.79,64.8,478,43.19,65.61
+Caverns of Time: Old Hillsbrad Foothills,oh,Dungeon,161,55.39,53.54,161,64.36,50.33,161,64.97,49.95
+Auchindoun: Shadow Labyrinth,slabs,Dungeon,478,39.63,73.54,478,39.79,64.8,478,39.63,70.89
+Caverns of Time: The Black Morass,bm,Dungeon,161,57.06,62.33,161,64.36,50.33,161,64.97,49.95
+Coilfang Reservoir: The Steamvault,sv,Dungeon,467,50.33,33.32,467,52.38,36.1,467,50.37,40.87
+Hellfire Citadel: The Shattered Halls,shatthalls,Dungeon,465,47.51,52.05,465,48.44,52.37,,,
+Tempest Keep: The Arcatraz,arc,Dungeon,479,74.46,57.69,479,66.16,65.23,,,
+Tempest Keep: The Botanica,botanica,Dungeon,479,71.75,54.98,479,66.16,65.23,,,
+Tempest Keep: The Mechanar,mech,Dungeon,479,70.6,69.74,479,66.16,65.23,,,
+Magisters' Terrace,mgt,Dungeon,499,61.2,30.87,499,60.08,30.48,,,
+Utgarde Keep,uk,Dungeon,491,57.3,46.8,491,58.67,46.73,491,57.99,50
+The Nexus,nexus,Dungeon,486,27.5,26.02,486,28.31,28.96,,,
+Azjol-Nerub,an,Dungeon,488,25.96,50.87,488,26.29,50.44,488,26.37,49.22
+Ahn'kahet: The Old Kingdom,ok,Dungeon,488,28.45,51.71,488,26.29,50.44,488,26.37,49.22
+Drak'Tharon Keep,dtk,Dungeon,496,28.52,86.93,496,28.94,86.87,496,28.94,83.94
+The Violet Hold,vh,Dungeon,504,68.47,70.2,,,,504,66.62,67.99
+Gundrak,gd,Dungeon,496,76.16,21.02,496,77.2,21.89,,,
+Halls of Stone,hos,Dungeon,495,39.57,26.9,495,43.71,26.22,,,
+Halls of Lightning,hol,Dungeon,495,45.39,21.38,495,43.71,26.22,,,
+Utgarde Pinnacle,up,Dungeon,491,57.25,46.62,491,56.99,45.8,,,
+The Oculus,occ,Dungeon,486,27.52,26.66,486,28.31,28.96,,,
+Caverns of Time: The Culling of Stratholme,cos,Dungeon,161,60.96,62.09,161,64.36,50.33,161,64.97,49.95
+Trial of the Champion,tochamp,Dungeon,492,74.18,20.49,492,76.92,21.19,,,
+The Forge of Souls,fos,Dungeon,492,54.9,89.79,492,54.53,90.74,492,52.62,89.34
+Pit of Saron,pos,Dungeon,492,54.79,91.79,492,54.53,90.74,492,52.62,89.34
+Halls of Reflection,hor,Dungeon,492,55.44,90.86,492,54.53,90.74,492,52.62,89.34
+Blackrock Caverns,brc,Dungeon,29,27.38,27.86,29,21.38,28.71,29,24.53,29.96
+Throne of the Tides,tott,Dungeon,614,69.43,25.09,614,67.93,24.54,614,70.54,29.69
+The Stonecore,sc,Dungeon,640,47.58,52.01,640,46.83,52.22,,,
+The Vortex Pinnacle,vp,Dungeon,720,76.79,84.52,720,77.22,85.28,,,
+Grim Batol,gb,Dungeon,700,19.17,53.96,700,22.97,55.45,,,
+Halls of Origination,hoo,Dungeon,720,69.09,52.95,720,72.33,52.44,720,71.64,52.18
+Lost City of the Tol'vir,lct,Dungeon,720,60.54,64.3,720,60.76,64.01,,,
+Zul'Aman,za,Dungeon,463,82.13,64.33,463,75.65,65.66,,,
+Zul'Gurub,zg,Dungeon,37,72.13,32.91,37,71.75,33.82,,,
+End Time,et,Dungeon,161,60.93,52.41,161,64.36,50.33,161,64.97,49.95
+Well of Eternity,woe,Dungeon,161,54.57,58.75,161,64.36,50.33,161,64.97,49.95
+Hour of Twilight,hot,Dungeon,161,62.67,52.4,161,64.36,50.33,161,64.97,49.95
+Temple of the Jade Serpent,tojs,Dungeon,806,56.2,57.88,806,55.63,58.19,,,
+Stormstout Brewery,sb,Dungeon,807,36.09,69.24,807,35.69,65.74,,,
+Shado-Pan Monastery,spm,Dungeon,809,36.7,47.44,809,35.84,48.66,,,
+Mogu'shan Palace,msp,Dungeon,811,80.86,32.71,811,82.95,41,,,
+Gate of the Setting Sun,gss,Dungeon,811,15.85,74.15,811,15.63,76.67,,,
+Siege of Niuzao Temple,snt,Dungeon,810,34.67,81.46,810,36.63,83.82,,,
+Bloodmaul Slag Mines,bsm,Dungeon,941,49.83,24.72,941,50.54,25.56,941,50.17,24.94
+Iron Docks,id,Dungeon,949,45.42,13.53,949,45.12,12.99,,,
+Auchindoun,auch,Dungeon,946,46.28,73.94,946,46.18,75.11,,,
+Skyreach,sr,Dungeon,948,35.58,33.61,948,35.63,33.09,,,
+The Everbloom,eb,Dungeon,949,59.59,45.55,949,59.11,44.91,,,
+Grimrail Depot,grimrail,Dungeon,949,55.05,31.33,949,55.71,33.34,949,55.25,32.16
+Shadowmoon Burial Grounds,smbg,Dungeon,947,31.86,42.56,947,32.43,42.15,,,
+Molten Core,mc,Raid,29,18.27,24.97,29,21.38,28.71,,,
+Blackwing Lair,bwl,Raid,29,23.94,32.21,29,21.38,28.71,29,23.83,26.09
+Ruins of Ahn'Qiraj (AQ 20),aq20,Raid,261,36.43,94.1,261,35.6,88.36,,,
+Temple of Ahn'Qiraj (AQ 40),aq40,Raid,261,24.29,87.31,261,35.6,88.36,,,
+Karazhan,kara,Raid,32,46.87,74.7,32,46.55,75.8,,,
+Gruul's Lair,gruul,Raid,475,69.32,23.73,475,67.62,23.6,,,
+Hellfire Citadel: Magtheridon's Lair,mags,Raid,465,47.51,52.08,465,45.98,54.55,465,46.6,52.8
+Coilfang Reservoir: Serpentshrine Cavern,ssc,Raid,467,51.91,32.97,467,52.38,36.1,467,50.37,40.87
+Tempest Keep: The Eye,tk,Raid,479,73.74,63.74,479,66.16,65.23,,,
+Black Temple,bt,Raid,473,71.02,46.47,473,64.48,46.67,,,
+Caverns of Time: Hyjal Summit,hyjal,Raid,161,56.96,49.95,161,64.36,50.33,161,64.97,49.95
+Sunwell Plateau,sunwell,Raid,499,44.26,45.62,499,45.23,43.8,,,
+Vault of Archavon,voa,Raid,501,50.05,11.67,501,49.34,12.27,501,50.05,15.98
+Eye of Eternity,eoe,Raid,486,27.49,26.81,486,28.31,28.96,,,
+Naxxramas,naxx,Raid,488,87.28,51.02,488,87.28,51.02,,,
+The Obsidian Sanctum,os,Raid,488,60.01,56.94,488,59.79,54.14,488,59.62,51.38
+Ulduar,ulduar,Raid,495,41.57,17.87,495,43.71,26.22,,,
+Onyxia's Lair,ony,Raid,141,52.97,77.69,141,50.96,77.65,141,52.67,76.93
+Trial of the Crusader,toc,Raid,492,75.07,21.8,492,76.92,21.19,,,
+Icecrown Citadel,icc,Raid,492,53.83,87.15,492,51.49,85.65,492,53.3,85.45
+The Ruby Sanctum,rs,Raid,488,61.28,52.67,488,59.79,54.14,488,59.62,51.38
+Baradin Hold,bh,Raid,708,47.67,52.79,708,45.48,46.33,,,
+The Bastion of Twilight,bot,Raid,700,33.94,78.02,700,34.5,77.49,,,
+Blackwing Descent,bwd,Raid,29,23.12,26.41,29,26.02,25.32,29,25.31,25.16
+Throne of the Four Winds,tfw,Raid,720,38.3,80.66,720,36.79,81.55,,,
+Firelands,fl,Raid,606,47.34,78.06,606,48.01,77.66,,,
+Dragon Soul,ds,Raid,161,61.71,51.91,161,64.36,50.33,161,64.97,49.95
+Mogu'shan Vaults,msv,Raid,809,59.56,39.24,809,60.31,38.36,,,
+Heart of Fear,hof,Raid,858,38.87,35.03,858,40.63,33.64,,,
+Terrace of Endless Spring,toes,Raid,873,48.63,61.62,873,51.54,69.09,,,
+Throne of Thunder,tot,Raid,928,63.7,32.25,928,63.19,33.68,928,52.04,45.05
+Siege of Orgrimmar,soo,Raid,811,74.07,41.99,811,72.39,44.8,811,72.39,44.32
+Highmaul,hm,Raid,950,32.92,38.37,950,34.69,38.46,,,
+Blackrock Foundry,brf,Raid,949,51.57,27.19,949,51.69,29.06,949,51.35,28.5
+Hellfire Citadel,hfc,Raid,945,45.54,53.62,945,46.62,51.92,,,

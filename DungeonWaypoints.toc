@@ -1,0 +1,40 @@
+## Interface: 62300
+## Author: Artoo
+## Title: DungeonWaypoints
+## Version: 0.01
+## Notes: Addon to set a waypoint for any dungeon or raid in Azeroth
+## SavedVariables: DungeonWayPointsDB
+## RequiredDeps: TomTom
+## OptionalDeps: SharedMedia
+## X-Curse-Packaged-Version: 0.01
+## X-Curse-Project-Name: DungeonWaypoints
+## X-Curse-Project-ID: dungeonwaypoints
+## X-Curse-Repository-ID: wow/dungeonwaypoints/mainline
+
+## X-Category: Map & Minimap - TODO: Update this
+## X-Author-Server: Lightbringer, US
+## X-Author-Faction: Alliance
+## X-Email: artoo [at] lockslap [dot] com
+## X-Website: http://ba-guild.com - TODO: Update this
+## X-Paypal: crackpot.mytouch@gmail.com - TODO: Update this
+## X-Credits: Psychosocial, Lockslap, Cladhaire (Author of TomTom)
+
+## TODO: Update these
+Libraries\LibStub\LibStub.lua
+Libraries\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libraries\AceAddon-3.0\AceAddon-3.0.xml
+Libraries\AceConfig-3.0\AceConfig-3.0.xml
+Libraries\AceConsole-3.0\AceConsole-3.0.xml
+Libraries\AceDB-3.0\AceDB-3.0.xml
+Libraries\AceEvent-3.0\AceEvent-3.0.xml
+Libraries\AceGUI-3.0\AceGUI-3.0.xml
+Libraries\AceGUI-3.0-SharedMediaWidgets\widget.xml
+Libraries\AceLocale-3.0\AceLocale-3.0.xml
+Libraries\AceTimer-3.0\AceTimer-3.0.xml
+Libraries\Astrolabe\Load.xml
+Libraries\LibSharedMedia-3.0\lib.xml
+Libraries\LibDataBroker-1.1\LibDataBroker-1.1.lua
+
+Locales.xml
+DungeonWaypoints.lua
+Locations.lua

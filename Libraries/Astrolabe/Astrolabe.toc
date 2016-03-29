@@ -1,0 +1,10 @@
+## Interface: 60000
+## Title: Astrolabe |cff224477(lib)
+## Notes: A library for drawing icons on the Minimap and World Maps.
+## Version: 1.0
+## Author: Esamynn (James Carrothers)
+## X-Curse-Packaged-Version: 1.11
+## X-Curse-Project-Name: Finders Keepers
+## X-Curse-Project-ID: finders-keepers
+## X-Curse-Repository-ID: wow/finders-keepers/mainline
+Load.xml
